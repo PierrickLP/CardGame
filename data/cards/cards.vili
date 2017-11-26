@@ -1,0 +1,28 @@
+Cards:
+    0001:
+        name:"Test Carte 1"
+        quote:"Je suis la première"
+        description:"Une première carte"
+        atk:1
+        def:1
+        type:"Invocation"
+        families:["Card"]
+        collector:False
+    0002:
+        name:"Test Carte 2"
+        quote:"Je suis la seconde"
+        description:"Une seconde carte"
+        atk:2
+        def:2
+        type:"Invocation"
+        families:["Card"]
+        collector:False
+    0003:
+        name:"Test Carte 3"
+        quote:"Je suis la troisème"
+        description:"Une troisème carte"
+        atk:3
+        def:3
+        type:"Invocation"
+        families:["Card"]
+        collector:True
